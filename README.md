@@ -1,4 +1,4 @@
-# Google Ana Sayfa Klonu / Google Homepage Clone
+# Sayı Tahmin Oyunu / Number Guessing Game
 
 Bu proje, Google'ın ana sayfa tasarımını HTML ve CSS kullanarak yeniden oluşturmaya yönelik bir çalışmadır. Basit ama etkili bir şekilde modern web tasarımı anlayışını ve CSS becerilerini geliştirmek için tasarlanmıştır.
 
